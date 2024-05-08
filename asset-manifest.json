@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextAlyze/static/css/main.db964889.css",
+    "main.js": "/TextAlyze/static/js/main.42649fc3.js",
+    "static/js/453.171ddc7f.chunk.js": "/TextAlyze/static/js/453.171ddc7f.chunk.js",
+    "index.html": "/TextAlyze/index.html",
+    "main.db964889.css.map": "/TextAlyze/static/css/main.db964889.css.map",
+    "main.42649fc3.js.map": "/TextAlyze/static/js/main.42649fc3.js.map",
+    "453.171ddc7f.chunk.js.map": "/TextAlyze/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db964889.css",
+    "static/js/main.42649fc3.js"
+  ]
+}
